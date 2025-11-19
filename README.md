@@ -3,7 +3,8 @@
 The latest repositories containing useful tools-and-software aiding your Robotics Journey
 
 Collection of the Best Robotics Simulators - [best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
-Credits : Kimberly Clarke
+
+Credits : Kimberly McGuire's 
 
 
 Manipulation 
